@@ -28,7 +28,7 @@ public class DangerFloof extends JFrame{
                 "Neutral Tile - Nothing to special. \n" +
                 "Every time a tile is clicked, the wolf moves closer to the sheep. If the wolf finds the sheep," +
                 "its game over. \n" +
-                "Created by John McGuire.");
+                "Created by Haydon Ruth.");
 
         loss = false;
         //Creates the grid of the game.
